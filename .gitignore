@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# SQLite базы данных
+*.db
+*.sqlite
+*.sqlite3
+
+# PyCharm
+.idea/
+*.iml
+.idea_modules/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+.venv/
